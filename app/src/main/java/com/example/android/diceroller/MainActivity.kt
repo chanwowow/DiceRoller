@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         diceImage = findViewById(R.id.dice_image) // 여기!
+        val test = "test"
     }
 
     private fun rollDice() {
